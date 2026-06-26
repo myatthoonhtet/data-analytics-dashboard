@@ -48,17 +48,12 @@ https://datastudio.google.com/reporting/561bfc0a-c623-438c-8f44-fc85aa63833a
 
 ---
 
-## Project Structure
+## Repository Contents
 
-```
-📂 data-analytics-dashboard
-│
-├── SQL
-├── Dataset
-├── Dashboard
-├── Documentation
-└── README.md
-```
+- 📊 Dashboard Screenshot
+- 📝 README Documentation
+
+More files, including SQL scripts, datasets, and project documentation, will be added as the project continues to develop.
 
 ---
 
