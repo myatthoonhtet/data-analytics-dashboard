@@ -36,6 +36,20 @@ This project demonstrates an interactive data analytics dashboard built using Po
 
 ---
 
+## SQL Scripts
+
+The SQL scripts used to prepare, query, and analyze the data are available in the `SQL` folder.
+
+### Key SQL Operations
+
+- Database creation
+- Table creation
+- Data insertion
+- JOIN operations
+- GROUP BY and aggregations
+- KPI calculations
+- Data filtering and reporting
+
 ## Dashboard Preview
 
 ![Dashboard](dashboard.png)
@@ -45,15 +59,6 @@ This project demonstrates an interactive data analytics dashboard built using Po
 ## Dashboard Link
 
 https://datastudio.google.com/reporting/561bfc0a-c623-438c-8f44-fc85aa63833a
-
----
-
-## Repository Contents
-
-- Dashboard Screenshot
-- README Documentation
-
-More files, including SQL scripts, datasets, and project documentation, will be added as the project continues to develop.
 
 ---
 
