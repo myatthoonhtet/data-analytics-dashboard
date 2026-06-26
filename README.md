@@ -1,4 +1,4 @@
-# 📊 Data Analytics Dashboard
+# Data Analytics Dashboard
 
 ## Overview
 
@@ -50,8 +50,8 @@ https://datastudio.google.com/reporting/561bfc0a-c623-438c-8f44-fc85aa63833a
 
 ## Repository Contents
 
-- 📊 Dashboard Screenshot
-- 📝 README Documentation
+- Dashboard Screenshot
+- README Documentation
 
 More files, including SQL scripts, datasets, and project documentation, will be added as the project continues to develop.
 
